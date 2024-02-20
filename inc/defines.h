@@ -1,5 +1,7 @@
 // events
-#define MUL         1
+#define ADD         1
+#define POW         2
+#define MUL         3
 
 
 // enters
